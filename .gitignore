@@ -6,3 +6,4 @@ uploads/
 outputs/
 .env
 .env.*
+temp_access.json
