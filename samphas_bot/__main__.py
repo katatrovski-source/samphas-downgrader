@@ -639,4 +639,3 @@ if __name__ == "__main__":
 
     load_temp_access()
     bot.run(TOKEN)
-```
